@@ -1,0 +1,14 @@
+# Local notes and machine-specific files.
+.DS_Store
+node_modules/
+dist/
+.cache/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.log
